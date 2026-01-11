@@ -1,0 +1,10 @@
+requests
+backoff
+numpy
+pillow
+pytesseract
+pyautogui
+psutil
+pywin32
+astunparse
+python-dotenv
